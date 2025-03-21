@@ -1,4 +1,4 @@
-# Display a person’s complete mailing address.
+# Mailing Address
 #
 name = "Ben Stephenson"
 department = "Department of Computer Science"
